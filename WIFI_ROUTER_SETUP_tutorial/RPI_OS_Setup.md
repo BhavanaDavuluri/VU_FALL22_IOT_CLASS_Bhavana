@@ -4,20 +4,9 @@ Now Flash the sd card by using balena. After flashing, remove the sd card and po
 ![image](https://user-images.githubusercontent.com/112037009/190513215-0e3bdfd9-ff82-44a1-9bc1-9e56f9091a6f.png)
 Keep the sd card in raspberry pi and open dietpi and dietpi_wifi text files and edit the file according to your ssid and location etc.
 The changes to be made in dietpi-wifi are 
-aWIFI_SSID[0]='IOT-PAS'
-aWIFI_KEY[0]='iotlogin'
+![image](https://user-images.githubusercontent.com/112037009/190514185-0ffdd4ff-3f1d-40ab-b00e-ed52816e4eb7.png)
 The changes to be made in dietpi file are
-AUTO_SETUP_LOCALE=en_US.UTF-8
-AUTO_SETUP_KEYBOARD_LAYOUT=us
-AUTO_SETUP_TIMEZONE=America/New_York
-AUTO_SETUP_NET_ETHERNET_ENABLED=0
-AUTO_SETUP_NET_WIFI_ENABLED=1
-AUTO_SETUP_NET_WIFI_COUNTRY_CODE=US
-AUTO_SETUP_DHCP_TO_STATIC=1
-AUTO_SETUP_NET_HOSTNAME=DietPi_{YOUR_INITIALS}
-AUTO_SETUP_HEADLESS=1
-AUTO_SETUP_AUTOSTART_TARGET_INDEX=1
-SURVEY_OPTED_IN=0
+![image](https://user-images.githubusercontent.com/112037009/190514026-a28d73b9-7a6a-4dd0-8744-74ebc5ad5d90.png)
 CONFIG_SERIAL_CONSOLE_ENABLE=1
 Open command prompt and enter ssh root@ipaddress and password is default as dietpi. The ip address is the address of raspberry pi which is detected in router website in clients.
 ![image](https://user-images.githubusercontent.com/112037009/190513412-9ee0de6d-83c5-416d-b3fa-a199537c3a49.png)
