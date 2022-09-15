@@ -38,7 +38,7 @@ Open command prompt and enter ssh root@ipaddress and password is default as diet
 ![image](https://user-images.githubusercontent.com/112037009/190513412-9ee0de6d-83c5-416d-b3fa-a199537c3a49.png)
 Some installations and updates will be done. Later it is asked to change the password to new one. User enters the new password. 
 ![image](https://user-images.githubusercontent.com/112037009/190513465-0ef9417b-621c-463b-b41c-1f656273a7a9.png)
-   It also asks to change the password of unix user. Then the user will change the password.
+       It also asks to change the password of unix user. Then the user will change the password.
 ![image](https://user-images.githubusercontent.com/112037009/190513509-d4fd3a72-5746-481c-81f3-6322d0ffb193.png)
 Finally the password is changed and now again open command prompt and enter ssh root@ipaddress and the new password .
 After completing all this then it displays as Welcome to Dietpi. Finally the raspberry pi is setup.
