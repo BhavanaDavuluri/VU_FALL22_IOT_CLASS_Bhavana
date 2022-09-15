@@ -4,6 +4,7 @@ Now Flash the sd card by using balena. After flashing, remove the sd card and po
 ![image](https://user-images.githubusercontent.com/112037009/190513215-0e3bdfd9-ff82-44a1-9bc1-9e56f9091a6f.png)
 Keep the sd card in raspberry pi and open dietpi and dietpi_wifi text files and edit the file according to your ssid and location etc.
 The changes to be made in dietpi-wifi are 
+
 aWIFI_SSID[0]='IOT-PAS'
 
 aWIFI_KEY[0]='iotlogin'
