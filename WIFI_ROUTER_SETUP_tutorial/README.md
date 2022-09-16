@@ -5,3 +5,6 @@ IOT_Platform_Install.md includes the details about IOT platform installation and
 In this we open a Node-RED and pull the nodes named as trigger,debug,Postgres and template.
 This is what done in 2 files.
 For completion of these two installations we need raspberry pi,router and cables.
+
+for more information : [RPI_INSTALLATION](https://github.com/BhavanaDavuluri/VU_FALL22_IOT_CLASS_Bhavana/blob/main/WIFI_ROUTER_SETUP_tutorial/RPI_OS_Setup.md)
+for more information : [IOT_PLATFORM](https://github.com/BhavanaDavuluri/VU_FALL22_IOT_CLASS_Bhavana/blob/main/WIFI_ROUTER_SETUP_tutorial/IOT_Platform_Install.md)
