@@ -1,3 +1,7 @@
+The laptop which I am using is HP Laptop - 15t-dy200 SCREEN SIZE15.6", Windows 11 Home, Intel® Core™ i7-1165G7 (up to 4.7 GHz, 12 MB L3 cache, 4 cores) + Intel® Iris® Xe Graphics,16 GB DDR4-2666 SDRAM (2 x 8 GB),256 GB PCIe® NVMe™ M.2 SSD.
+The router which I used is GL.iNet GL-MT300N-V2(Mango) Portable Mini Travel Wireless Pocket VPN Router - WiFi Router/Access.
+
+
 Connect the router to your laptop through cable and setup the router by entering the details of password. Then open http://192.168.8.1/ path in browser and connect to Wi-Fi. The router is setup now.
 ![image](https://user-images.githubusercontent.com/112037009/190512931-22a77f24-f3e8-49ee-a89e-ba34269e0c12.png)
 Now Flash the sd card by using balena. After flashing, remove the sd card and power on the raspberry pi and connect raspberry pi to laptop by using hdmi and connect the raspberry pi with router by wan.
