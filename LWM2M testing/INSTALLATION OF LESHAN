@@ -2,7 +2,7 @@ Installation of Leshan Server:
 
 Login to the dietpi by entering the ip address and password. The command to enter ip address is 
 ssh dietpi@(IPADDR_OF_PI)
-
+![Login](https://user-images.githubusercontent.com/112037009/192080503-e2603c69-586d-4264-abeb-2a18a5363a50.png)
 
 To download the software git and java we need to use the command sudo dietpi-software.
 Then we search for git and then select - Git: Clone and manage Git repositories locally and then press  install. 
