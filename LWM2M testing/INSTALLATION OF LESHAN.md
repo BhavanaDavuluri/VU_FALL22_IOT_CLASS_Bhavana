@@ -34,20 +34,17 @@ Enter cd and then create a directory as mkdir projects and then cd projects. And
 
 Now enter cd ~/projects/leshan and then mvn clean install. Then we will get Build Success as shown in figure below
 
+[BuildSuccess](https://user-images.githubusercontent.com/112037009/192080747-80b28e7c-e32e-4d0a-927b-8160a9b1d3ae.png)
+
 Now we need to test the server using java -jar leshan-server-demo/target/leshan-server-demo-*-SNAPSHOT-jar-with-dependencies.jar &
 
 Open the web page and enter  http://RPI_IPADDR:8080 which will direct to the leshan server 
 
-Now if we run the command “ java -jar leshan-client-demo/target/leshan-client-demo-*-SNAPSHOT-jar-with-dependencies.jar “ in command prompt the dietpi will be displayed in the leshan server
+Now if we run the command  java -jar leshan-client-demo/target/leshan-client-demo-*-SNAPSHOT-jar-with-dependencies.jar  in command prompt the dietpi will be displayed in the leshan server
 
+![leshanserver](https://user-images.githubusercontent.com/112037009/192080883-5fb960ca-58b9-47ba-adf6-d0e47f7e2d12.png)
 
-
-
-
-
-
-
-
+![leshan client](https://user-images.githubusercontent.com/112037009/192080888-8dc0e793-6c41-4e09-bdbf-926d3ce6bd14.png)
 
 
 
