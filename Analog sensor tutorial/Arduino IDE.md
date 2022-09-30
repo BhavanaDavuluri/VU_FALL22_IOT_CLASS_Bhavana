@@ -4,7 +4,7 @@ Connect the DHT11 sensor on the breadboard and connect all the jumpwires as show
 
 Install the Arduino from the https://www.arduino.cc/en/software
 
-Now got File->Preferences in Arduino IDE and enter the URL https://dl.espressif.com/dl/package_esp32_index.json in Additional Boards Manager
+Now go to File->Preferences in Arduino IDE and enter the URL https://dl.espressif.com/dl/package_esp32_index.json in Additional Boards Manager
 
 Now go to Tools->Board->Boards Manager and then check for esp32 and install ESP32 by Espressif Systems
 
