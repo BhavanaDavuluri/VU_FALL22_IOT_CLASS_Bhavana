@@ -70,7 +70,7 @@ Now go to client and enter the server address as shown in leshan server (example
 
 Now go to Board options and select push button and enter the number as in jump wire to the push button pin as shown below
 
-![Screenshot 2022-11-04 234215](https://user-images.githubusercontent.com/112037009/201428829-669fe5d1-a439-4b0b-9898-1cf69a969809.png)
+![Screenshot 2022-11-04 235530](https://user-images.githubusercontent.com/112037009/201430067-d82f6a9d-abef-4eab-9a78-445ae102a9be.png)
 
 Now go to connection configuration and enter the ssid and password as shown below
 
@@ -92,6 +92,8 @@ sudo chmod 666 /dev/ttyUSB0
 idf.py -p 0 flash
 
 Now you have to see esp-32 as client in leshan server
+
+![Screenshot 2022-11-04 234215](https://user-images.githubusercontent.com/112037009/201428829-669fe5d1-a439-4b0b-9898-1cf69a969809.png)
 
 Now click on the esp-32 and you can see push button option as shown below
 
