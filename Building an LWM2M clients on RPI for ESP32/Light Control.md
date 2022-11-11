@@ -97,8 +97,6 @@ idf.py -p 0 flash
 
 Now you have to see esp-32 as client in leshan server
 
-![Screenshot 2022-11-04 234156](https://user-images.githubusercontent.com/112037009/201421091-14bd2930-2f26-4aec-957a-6e92a0419286.png)
-
 Now click on the esp-32 and you can see light control option as shown below
 
 ![Screenshot 2022-11-04 234125](https://user-images.githubusercontent.com/112037009/201421257-3f7f7642-e070-4456-b4b9-a6f0fd4cc04a.png)
