@@ -108,7 +108,7 @@ Also  read Dimmer and write some value of your choice. See below figure for refe
 
 ![Screenshot_20221104_114123](https://user-images.githubusercontent.com/112037009/201421659-f685041c-3216-4f4f-bd67-e07301bf1a8f.png)
 
-Then the light in the circuit brights up as below
+Then the light in the circuit brights up as below shown
 
 ![Light Control](https://user-images.githubusercontent.com/112037009/201422027-29649fbb-d1ea-476e-9baa-6e7b512a8ac9.jpeg)
 
