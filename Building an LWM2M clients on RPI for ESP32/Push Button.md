@@ -93,10 +93,13 @@ idf.py -p 0 flash
 
 Now you have to see esp-32 as client in leshan server
 
-
-
 Now click on the esp-32 and you can see push button option as shown below
 
+And now read the digital input state and write false 
+
+Now read the digital input counter and press the push button on the circuit.It shows how many times you pressed
+
+![Screenshot 2022-11-05 000619](https://user-images.githubusercontent.com/112037009/201429677-a48eac31-ae8f-4534-9a30-145681ecd4eb.png)
 
 
 
