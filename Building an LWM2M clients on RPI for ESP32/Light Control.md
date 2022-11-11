@@ -80,6 +80,39 @@ Now go to connection configuration and enter the ssid and password as shown belo
 
 ![Screenshot 2022-10-29 235938](https://user-images.githubusercontent.com/112037009/201418728-c4d53100-c762-4cef-bacb-7f74a5a2e96c.png)
 
+Now again we need to build the code for esp-32 by using 
+
+ cd ~/projects/Anjay-esp32-client
+ idf.py build
+ 
+ Flash the device by using
+ 
+ ls -l /dev/ttyUSB*
+ 
+ Give the below commands for flashing of the esp-32
+ 
+cd ~/projects/Anjay-esp32-client
+sudo chmod 666 /dev/ttyUSB0
+idf.py -p 0 flash
+
+Now you have to see esp-32 as client in leshan server
+
+![Screenshot 2022-11-04 234156](https://user-images.githubusercontent.com/112037009/201421091-14bd2930-2f26-4aec-957a-6e92a0419286.png)
+
+Now click on the esp-32 and you can see light control option as shown below
+
+![Screenshot 2022-11-04 234125](https://user-images.githubusercontent.com/112037009/201421257-3f7f7642-e070-4456-b4b9-a6f0fd4cc04a.png)
+
+Now on click light control and 
+
+![Screenshot_20221104_114123](https://user-images.githubusercontent.com/112037009/201421659-f685041c-3216-4f4f-bd67-e07301bf1a8f.png)
+
+
+
+
+
+
+
 
 
 
