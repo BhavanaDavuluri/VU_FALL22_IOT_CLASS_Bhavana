@@ -104,11 +104,11 @@ Now click on the esp-32 and you can see light control option as shown below
 ![Screenshot 2022-11-04 234125](https://user-images.githubusercontent.com/112037009/201421257-3f7f7642-e070-4456-b4b9-a6f0fd4cc04a.png)
 
 Now on click light control and read the on/off and write it to true.
-Also  read Dimmer and write some value of your choice
+Also  read Dimmer and write some value of your choice. See below figure for reference 
 
 ![Screenshot_20221104_114123](https://user-images.githubusercontent.com/112037009/201421659-f685041c-3216-4f4f-bd67-e07301bf1a8f.png)
 
-Then the light in the circuit on as 
+Then the light in the circuit brights up as below
 
 ![Light Control](https://user-images.githubusercontent.com/112037009/201422027-29649fbb-d1ea-476e-9baa-6e7b512a8ac9.jpeg)
 
