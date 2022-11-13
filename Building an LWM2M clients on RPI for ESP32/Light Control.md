@@ -1,4 +1,6 @@
-Login to dietpi using ssh dietpi@address and by entering password and setup all the devices
+Login to dietpi using ssh dietpi@address and by entering password and setup all the devices and set up the circuit diagram by using below figure
+
+![Circuit Diagram](https://user-images.githubusercontent.com/112037009/201502672-9546cc76-40e8-48a4-955d-8df99fc7948f.jpeg)
 
 Check whether the compiler has installed gcc -v
 
