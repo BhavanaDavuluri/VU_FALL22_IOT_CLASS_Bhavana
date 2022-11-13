@@ -103,6 +103,10 @@ Now read the digital input counter and press the push button on the circuit.It s
 
 ![Screenshot 2022-11-05 000619](https://user-images.githubusercontent.com/112037009/201429677-a48eac31-ae8f-4534-9a30-145681ecd4eb.png)
 
+This is how the circuit diagram looks like
+
+![Push Button](https://user-images.githubusercontent.com/112037009/201545438-c5466903-74c6-4ab1-8746-c28fddc296d4.jpeg)
+
 
 
 
