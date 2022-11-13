@@ -97,9 +97,9 @@ cd ~/projects/Anjay-esp32-client
 sudo chmod 666 /dev/ttyUSB0
 idf.py -p 0 flash
 
-Now you have to see esp-32 as client in leshan server
+Now you have to see Anjay-esp-32-client as client in leshan server
 
-Now click on the esp-32 and you can see light control option as shown below
+Now click on the Anjay-esp-32-client and you can see light control option as shown below
 
 ![Screenshot 2022-11-04 234125](https://user-images.githubusercontent.com/112037009/201421257-3f7f7642-e070-4456-b4b9-a6f0fd4cc04a.png)
 
