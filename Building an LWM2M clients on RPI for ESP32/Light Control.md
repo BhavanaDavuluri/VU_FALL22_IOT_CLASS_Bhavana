@@ -99,9 +99,9 @@ idf.py -p 0 flash
 
 Now you have to see Anjay-esp-32-client as client in leshan server
 
-Now click on the Anjay-esp-32-client and you can see light control option as shown below
+![Screenshot 2022-11-04 234215](https://user-images.githubusercontent.com/112037009/201428829-669fe5d1-a439-4b0b-9898-1cf69a969809.png)
 
-![Screenshot 2022-11-04 234125](https://user-images.githubusercontent.com/112037009/201421257-3f7f7642-e070-4456-b4b9-a6f0fd4cc04a.png)
+Now click on the Anjay-esp-32-client and you can see light control option as shown below
 
 Now on click light control and read the on/off and write it to true.
 Also  read Dimmer and write some value of your choice. See below figure for reference 
