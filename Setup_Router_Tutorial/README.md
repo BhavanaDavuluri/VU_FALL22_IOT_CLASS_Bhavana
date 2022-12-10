@@ -3,3 +3,6 @@
 3.Then we need to enter the http path to change the password then the page will pop up in browser.
 4.Then we need to go to WireLess which is on the left side of the page and update the username and password.We need to reset the router and connect by new wifi name.
 5.At last we need to go to Internet and connect to local wifi network and join it. 
+
+![Router](https://user-images.githubusercontent.com/112037009/206876013-ab358fe9-ed9c-4153-ac08-2426311a0459.png)
+
