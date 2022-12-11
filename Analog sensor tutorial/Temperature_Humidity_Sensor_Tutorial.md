@@ -2,6 +2,8 @@ Fix the DHT11 sensor on the breadboard and connect jumpwires from breadboard to 
 
 ![circuit diagram](https://user-images.githubusercontent.com/112037009/193214445-3f4b84ae-f825-4f49-b712-8af9e654c3ae.png)
 
+![Temperature](https://user-images.githubusercontent.com/112037009/206887801-1b100c95-b27e-407b-b87c-853015e499e7.jpg)
+
 Login to the dietpi using ssh dietpi@Ipaddress and enter password
 
 Clone and Install the wiringPi
@@ -34,7 +36,7 @@ Output is as below
 
 ![OUTPUT IMAGE](https://user-images.githubusercontent.com/112037009/193214650-b86d7531-a839-4170-b037-6db51d6ed6a3.png)
 
-![Temperature](https://user-images.githubusercontent.com/112037009/206887801-1b100c95-b27e-407b-b87c-853015e499e7.jpg)
+
 
 
 
