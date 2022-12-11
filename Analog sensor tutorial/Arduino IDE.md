@@ -2,6 +2,8 @@ Connect the DHT11 sensor on the breadboard and connect all the jumpwires as show
 
 ![Aurdino Circuit](https://user-images.githubusercontent.com/112037009/193188123-f3398c9b-5bec-41c4-9cb1-9e2cd7f88516.png)
 
+![Ardunio](https://user-images.githubusercontent.com/112037009/206887746-2ebffa56-db99-4214-b4bd-e977abbf3205.jpeg)
+
 Install the Arduino from the https://www.arduino.cc/en/software
 
 Now go to File->Preferences in Arduino IDE and enter the URL https://dl.espressif.com/dl/package_esp32_index.json in Additional Boards Manager
@@ -32,7 +34,6 @@ Then you can see the temperature and humidity as follows
 
 ![aurdenio output](https://user-images.githubusercontent.com/112037009/193188483-039fb03b-a572-4021-bdd6-e066d457772e.png)
 
-![Ardunio](https://user-images.githubusercontent.com/112037009/206887746-2ebffa56-db99-4214-b4bd-e977abbf3205.jpeg)
 
 
 
