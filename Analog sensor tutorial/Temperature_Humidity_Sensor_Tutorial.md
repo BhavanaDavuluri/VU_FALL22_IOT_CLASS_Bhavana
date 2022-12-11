@@ -34,3 +34,7 @@ Output is as below
 
 ![OUTPUT IMAGE](https://user-images.githubusercontent.com/112037009/193214650-b86d7531-a839-4170-b037-6db51d6ed6a3.png)
 
+![Temperature](https://user-images.githubusercontent.com/112037009/206887801-1b100c95-b27e-407b-b87c-853015e499e7.jpg)
+
+
+
